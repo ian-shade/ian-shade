@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 
 📫 How to reach me: ian.shade@outlook.com
-Website : ianshade.com
+
+  Website : https://ianshade.com
 
 I am Software Engineer with over 5 years of experience in both full-stack and mobile application design. Proven
 ability to create innovative and high-performance solutions for diverse industries. Passionate about staying at
