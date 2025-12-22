@@ -4,7 +4,7 @@
 
   Website : https://ianshade.com
 
-I am Software Engineer with over 5 years of experience in both full-stack and mobile application design. Proven
+I am Software Engineer with over 6 years of experience in both full-stack and mobile application design. Proven
 ability to create innovative and high-performance solutions for diverse industries. Passionate about staying at
 the forefront of technology and delivering excellence in every project.
 
