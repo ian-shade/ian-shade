@@ -54,14 +54,22 @@ AI & Software Engineer with **6+ years** of experience building intelligent, hig
 
 **WAJ — All-in-One Salon Management**
 
-Comprehensive salon management platform with AI-powered booking, staff scheduling, inventory, and payments. Migrated to cloud reducing costs by **55%** and optimized app speed by **60%**. Available on web, iOS, and Android.
+Comprehensive salon management platform with AI-powered booking, staff scheduling, inventory, and payments. Migrated to cloud reducing costs by **55%** and optimized app speed by **60%**.
+
+`Node.js` `NestJS` `Flutter` `PostgreSQL` `TypeScript` `Docker` `Prisma` `Supabase`
+
+[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=safari&logoColor=white)](https://waj.ai/en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/ae/app/waj-all-in-one-salon-manager/id6471232991) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wajapp.waj&hl=en_GB)
 
 </td>
 <td width="50%" valign="top">
 
 **Road Ride — Cycling Social Platform**
 
-Professional cycling platform with **30K+ active users** — fitness tracking, social features, marketplace, leaderboards, and badges. **Zero downtime** architecture running 3+ years with no critical issues.
+Professional cycling platform with **30K+ active users** — fitness tracking, social features, marketplace, leaderboards, and badges. **Zero downtime** for 3+ years.
+
+`Flutter` `Node.js` `PostgreSQL` `Firebase` `MongoDB` `Google Maps API`
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/hr/app/road-ride-team/id6444900415) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.soft.road_ride&hl=en_GB)
 
 </td>
 </tr>
@@ -70,14 +78,22 @@ Professional cycling platform with **30K+ active users** — fitness tracking, s
 
 **ABO Store — E-Commerce Platform**
 
-E-commerce platform serving **30K+ active users** in the Iraqi market. Features product browsing, variant selection, inventory management, wishlists, and personalized recommendations across web, iOS, and Android.
+E-commerce platform serving **30K+ active users** in Iraq. Product browsing, inventory management, wishlists, and personalized recommendations across web, iOS, and Android.
+
+`Flutter` `Node.js` `PostgreSQL` `Firebase` `React`
+
+[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=safari&logoColor=white)](https://abostoreiq.com/) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/hr/app/abo-store/id6444841672) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.soft.ABO&hl=en_GB)
 
 </td>
 <td width="50%" valign="top">
 
 **Klshi Wasel — Delivery & Logistics**
 
-Multi-purpose delivery platform with **7K+ active users**, combining e-commerce fulfillment with logistics services. Real-time tracking, flexible scheduling, and comprehensive order management.
+Multi-purpose delivery platform with **7K+ active users**, combining e-commerce fulfillment with logistics. Real-time tracking, flexible scheduling, and order management.
+
+`Flutter` `Node.js` `PostgreSQL` `Firebase` `Google Maps API`
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/hr/app/klshi-wasel-%D9%88%D8%A7%D8%B5%D9%84/id6736594065) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ixcoders.wasel&hl=en_GB)
 
 </td>
 </tr>
@@ -86,9 +102,11 @@ Multi-purpose delivery platform with **7K+ active users**, combining e-commerce 
 
 **Rockety — 3D Rocket Physics Simulator**
 
-Interactive 3D rocket simulation with realistic physics, adjustable thrust/angle controls, and educational content. Built with **Three.js** for immersive 3D graphics and accurate aerodynamic modeling.
+Interactive 3D rocket simulation with realistic physics, adjustable thrust/angle controls, and educational content. Built with **Three.js** for immersive 3D graphics.
 
-[Live Demo](https://github.com/ian-shade) · [GitHub](https://github.com/ian-shade)
+`TypeScript` `Three.js` `HTML` `CSS` `Physics Engine`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://rockety.ianshade.com/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ian-shade/Rockety)
 
 </td>
 <td width="50%" valign="top">
