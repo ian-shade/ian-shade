@@ -204,19 +204,19 @@ Interactive 3D rocket simulation with realistic physics, adjustable thrust/angle
 
 ---
 
-### GitHub Activity
+### GitHub
 
 <div align="center">
 
-<a href="https://github.com/ian-shade">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-shade&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ian-shade&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" width="49%" alt="streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ian-shade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="github stats"/>
 
-| <a href="https://github.com/ian-shade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ian-shade&theme=github_dark" alt="stats"/></a> | <a href="https://github.com/ian-shade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ian-shade&theme=github_dark&utcOffset=0" alt="productive time"/></a> |
-| --- | --- |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ian-shade&theme=tokyonight" width="95%" alt="contribution graph">
 
-| <a href="https://github.com/ian-shade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ian-shade&theme=github_dark" alt="repos per language"/></a> | <a href="https://github.com/ian-shade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ian-shade&theme=github_dark" alt="most commit language"/></a> |
-| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ian-shade&theme=tokyonight" alt="repos per language"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ian-shade&theme=tokyonight" alt="most commit language"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ian-shade&theme=tokyonight&utcOffset=0" alt="productive time"/> |
+| --- | --- | --- |
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-shade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=12" width="49%" alt="top languages"/>
 
 </div>
 
